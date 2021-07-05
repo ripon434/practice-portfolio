@@ -1,0 +1,67 @@
+        body {
+            font-style: italic;
+            font-family: 'Bona Nova', serif;
+            margin: 0px;
+        }
+        
+        h1 {
+            font-size: 50px;
+        }
+        
+        h2 {
+            font-size: 40px;
+        }
+        
+        .sd {
+            color: orangered;
+        }
+        
+        section {
+            height: 400px;
+            padding-bottom: 250px;
+        }
+        
+        .exparience-area {
+            display: flex;
+            margin: 0px;
+            background-image: url(images/exp-bg.png);
+            background-repeat: no-repeat;
+            background-position: left;
+        }
+        
+        .half-width {
+            width: 50%;
+            border: 5px;
+            padding-right: 5%;
+            padding-top: 5%;
+            margin: 0px;
+        }
+        
+        .half-width img {
+            width: 80%;
+        }
+        
+        .dream {
+            color: red;
+            color: red;
+        }
+        
+        footer {
+            text-align: center;
+        }
+        
+        .exparience {
+            box-shadow: 10px 10px 10px 10px rgba(224, 15, 15, 0.2);
+            width: 500px;
+            margin-left: 5%;
+            margin-right: 5%;
+            padding-left: 30px;
+            border-radius: 40px;
+        }
+        
+        .top-bannar {
+            background-image: url(images/top-banner.png);
+            background-repeat: no-repeat;
+        }
+        
+        .exparience-area {}
